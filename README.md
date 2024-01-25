@@ -2,7 +2,7 @@
 Self introduction page
 
 # Section to do
-. Top bar(Icon, Name, Menu icon(Introduction, Current Projects, programming Goals, Links, About competitor, About page))
+. Top bar(Icon, Name / Menu icon(Introduction, Current Projects, programming Goals, Links, About competitor, About page))
 . Quotes bar(#Scrolls across the page)
 . Introduction(Main para, Hobbies, School life, Future)
 . Current projects(Coding(Make it reveal from SQL rather than change code?))
