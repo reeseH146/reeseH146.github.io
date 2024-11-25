@@ -26,6 +26,7 @@ interactive but GitHub Pages is static so there is a limit on potential function
 
 ## Top menu bar (Links to sections of the page or other sites) :
  - Home
+ - Introduction page
  - Skills
  - Projects showcase and web based mini programs
  - Future goals
